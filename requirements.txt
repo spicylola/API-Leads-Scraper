@@ -1,0 +1,30 @@
+# Flask Core Libraries
+Flask==2.3.2
+Flask-SQLAlchemy==3.0.5
+Flask-Migrate==4.0.4
+Flask-Cors==3.0.10
+
+# Database Driver for SQLite
+#sqlite3
+
+# For Environment Variable Management
+python-dotenv==1.0.0
+
+# For Background Tasks (Optional if needed in the future)
+Celery==5.3.1
+redis==5.0.0
+
+# For Password Hashing and Security
+bcrypt==4.0.1
+
+# For API Input Validation
+marshmallow==3.19.0
+
+# For Unit Testing
+#pytest==7.4.0
+#pytest-flask==2.0.0
+
+# For HTTP Requests (Optional for APIs)
+requests==2.31.0
+flask_apscheduler
+pandas
