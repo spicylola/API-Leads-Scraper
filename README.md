@@ -1,6 +1,6 @@
 # API-Leads-Scraper
 A scraping tool that grabs business leads using Google Maps Api, Youtube API, IG API, Maybe Tiktok API
-```markdown
+
 # API Leads Scraper 🚀
 
 A Python-based tool that scrapes business leads from Google Maps and exports them as a CSV file.
@@ -100,7 +100,7 @@ This project is open-source under the MIT License.
 
 ## 👨‍💻 Author
 
-[Your Name] – Reach out on [LinkedIn](#) or [GitHub](#)
+Lola – Reach out on lolashonaikedev@gmail.com
 
 🚀 **Happy Scraping!**
 ```
